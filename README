@@ -1,0 +1,7 @@
+This is a collection of useful gdb macros for debugging R.
+
+For more background on these, look at 
+
+src/main/inspect.c 
+
+in the R source distribution as a starting point.
